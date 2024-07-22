@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Photo 1",
+    "description": "13th July, Saturday party ",
+    "imageUrl": "https://i.postimg.cc/8kBCKK72/party1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Photo 2",
+    "description": "SGX has no immediate plans to allow crypto listings, CEO says. SINGAPORE (Reuters) - Singapore Exchange (SGX) has no immediate plans to allow cryptocurrency listings on its bourse, CEO Loh Boon Chye said on Tuesday, adding that conditions are still not ripe for such a move. Speaking in an interview at the Reuters NEXT conference in Singapore, Loh said \"not at the moment\", when asked whether SGX would be open to crypto listings. \"I think for any new product launches, it's important for this to have a sustainable ecosystem support,\" he said. \"That really means demand, that really means governance, that really means structure.\"",
+    "imageUrl": "https://i.ibb.co/2swWXmM/sgx.png"
+  },
+  {
+    "id": 3,
+    "name": "Photo 3",
+    "description": "Australia's DigitalX to launch spot bitcoin ETFs on ASX. (Reuters) - Australia's DigitalX said on Tuesday that it has obtained approval to list its spot bitcoin exchange-traded fund on the Australian Securities Exchange. The ETF will operate under the ASX ticker BTXX, and will commence trading on Friday, according to a press statement. K2 Asset Management will act as the issuer of the ETF and digital asset manager 3iQ will promote and distribute the ETF domestically and internationally. \"Our offering will enable Australians to invest in Bitcoin, without having to manage digital wallets, in a cost effective and secure manner,\" DigitalX Chief Executive Officer Lisa Wade said in the statement. (Reporting by Archishma Iyer in Bengaluru; Editing by Mrigank Dhaniwala)",
+    "imageUrl": "https://i.ibb.co/xFK5xBp/ASX.png"
+  }
+]
