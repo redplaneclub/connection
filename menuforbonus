@@ -53,21 +53,21 @@
           {
             "id": 101,
             "name": "B52",
-            "img": "https://i.ibb.co/VWGG2rX/b52.jpg",
+            "img": "https://i.ibb.co/FWJNsfn/b52new.jpg",
             "price": 250,
             "mass": "250g"
           },
           {
             "id": 102,
             "name": "Herosima",
-            "img": "https://i.ibb.co/bNXZX8V/herosima.jpg",
+            "img": "https://i.ibb.co/x24fLvD/herosimanew.jpg",
             "price": 350,
             "mass": "250g"
           },
 			{
             "id": 103,
             "name": "Sun",
-            "img": "https://i.ibb.co/fdSMCFy/sun.jpg",
+            "img": "https://i.ibb.co/RcSLNWX/sunnew.jpg",
             "price": 700,
             "mass": "250g"
           },
